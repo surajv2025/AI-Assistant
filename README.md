@@ -8,10 +8,7 @@ A Python desktop voice assistant with a Tkinter GUI. You can talk to it with you
       <img src="image/assistant.png" width="500"><br>
       <b> Clean and simple homepage design</b>
     </td>
-    <td align="center">
-      <img src="screenshots/registration-page.png" width="500"><br>
-      <b>Stylish registration page - Secure and responsive login page</b>
-    </td>
+     
   </tr>
 </table> 
 
