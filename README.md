@@ -2,9 +2,18 @@
 
 A Python desktop voice assistant with a Tkinter GUI. You can talk to it with your microphone or type your command, and it replies in both speech and on-screen text. It can tell you the time, fetch live weather, open websites and play music on YouTube.
 
-<!-- Add a screenshot of the app here:
-![AI Voice Assistant](screenshots/gui.png)
--->
+<table>
+  <tr>
+    <td align="center">
+      <img src="image/assistant.png" width="500"><br>
+      <b> Clean and simple homepage design</b>
+    </td>
+    <td align="center">
+      <img src="screenshots/registration-page.png" width="500"><br>
+      <b>Stylish registration page - Secure and responsive login page</b>
+    </td>
+  </tr>
+</table> 
 
 ## Features
 
